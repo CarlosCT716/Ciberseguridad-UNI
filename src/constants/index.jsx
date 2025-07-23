@@ -15,37 +15,37 @@ export const navItems = [
 export const features = [
   {
     icon: <BotMessageSquare />,
-    text: "Drag-and-Drop Interface",
+    text: "Primer Ciclo",
     description:
       "Easily design and arrange your VR environments with a user-friendly drag-and-drop interface.",
   },
   {
     icon: <Fingerprint />,
-    text: "Multi-Platform Compatibility",
+    text: "Segundo Ciclo",
     description:
       "Build VR applications that run seamlessly across multiple platforms, including mobile, desktop, and VR headsets.",
   },
   {
     icon: <ShieldHalf />,
-    text: "Built-in Templates",
+    text: "Tercer Ciclo",
     description:
       "Jumpstart your VR projects with a variety of built-in templates for different types of applications and environments.",
   },
   {
     icon: <BatteryCharging />,
-    text: "Real-Time Preview",
+    text: "Cuarto Ciclo",
     description:
       "Preview your VR application in real-time as you make changes, allowing for quick iterations and adjustments.",
   },
   {
     icon: <PlugZap />,
-    text: "Collaboration Tools",
+    text: "5to Ciclo",
     description:
       "Work together with your team in real-time on VR projects, enabling seamless collaboration and idea sharing.",
   },
   {
     icon: <GlobeLock />,
-    text: "Analytics Dashboard",
+    text: "Sexto Ciclo",
     description:
       "Gain valuable insights into user interactions and behavior within your VR applications with an integrated analytics dashboard.",
   },
